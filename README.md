@@ -2,10 +2,10 @@ wqu_capstone_june2023_grp3626
 
 Group member: Lingfei Xiao (xiaolingfei@gmail.com)
 
-1. Modules to be created
+1. Modules to be created:
    (1) HAR-RV
 
-2. Modules being worked on
+2. Modules being worked on:
    (1) MF-DFA (Multifractal Detrended Fluctuation Analysis)
 
-3. Modules done
+3. Modules done:
