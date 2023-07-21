@@ -11,4 +11,3 @@ Group member: Lingfei Xiao (xiaolingfei@gmail.com)
 
 4. Modules done:
    (1) MF-DMA (Multifractal Detrended Moving Average) Module
-$$\alpha$$
