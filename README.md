@@ -7,8 +7,8 @@ Group member: Lingfei Xiao (xiaolingfei@gmail.com)
 
 2. Modules being worked on:
    (1) MF-DFA (Multifractal Detrended Fluctuation Analysis);
-   (2) 
+   (2) MF-DMA (Multifractal Detrended Moving Average) Module;
 
 4. Modules done:
-   (1) MF-DMA (Multifractal Detrended Moving Average) Module;
+   (1) 
    (2)
