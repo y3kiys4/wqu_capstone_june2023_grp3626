@@ -10,5 +10,5 @@ Group member: Lingfei Xiao (xiaolingfei@gmail.com)
    (2) MF-DFA;
 
 4. Modules done:
-   (1) 
-   (2)
+   (1);
+   (2)；
