@@ -6,9 +6,9 @@ Group member: Lingfei Xiao (xiaolingfei@gmail.com)
    (1) HAR-RV;
 
 2. Modules being worked on:
-   (1) MF-DMA;
-   (2) MF-DFA;
+   (1) MF-DFA;
+   (2) ;
 
 4. Modules done:
-   (1);
+   (1) MF-DMA;
    (2)；
