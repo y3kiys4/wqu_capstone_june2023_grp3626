@@ -1,3 +1,5 @@
+The work was originally created as part of the MSc in Financial Engineering program at WorldQuant University.
+
 wqu_capstone_june2023_grp3626
 
 Group member: Lingfei Xiao (xiaolingfei@gmail.com)
